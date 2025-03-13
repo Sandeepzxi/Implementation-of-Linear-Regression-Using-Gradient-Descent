@@ -53,14 +53,17 @@ print(prediction)
 print(f"Predicted value: {pre}")
 ```
 ## Output:
-data information
+
+# data information
 ![image](https://github.com/user-attachments/assets/663163e8-d5b3-43e7-8afb-c016bbbf1482)
 
-value of X
+# value of X
 ![image](https://github.com/user-attachments/assets/cec791be-1cd3-4295-8c41-6e296030ae4a)
-Value of X1_Scaled
+
+# Value of X1_Scaled
 ![image](https://github.com/user-attachments/assets/eadae339-a76a-4fe7-aed5-bfa1f5963cee)
-predicted Value
+
+# predicted Value
 ![image](https://github.com/user-attachments/assets/a3e9a6d8-9c71-4a4b-bb56-c1b7264e140a)
 
 ## Result:
